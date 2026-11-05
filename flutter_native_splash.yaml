@@ -1,0 +1,9 @@
+﻿flutter_native_splash:
+  color: "#ffffff"
+  image: assets/images/App Rounded Logo.png
+  branding: assets/images/meta_logo.png
+
+  android_12:
+    color: "#ffffff"
+    image: assets/images/splach12.png
+    branding: assets/images/meta_logo.png
